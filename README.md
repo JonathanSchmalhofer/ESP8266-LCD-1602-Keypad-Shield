@@ -20,7 +20,7 @@ You only need the Arduino IDE with installed packages for the ESP8266.
 
 Please see the following wiring sketch for wiring:
 
-![Circuit Wiring](doc/images/curcuit.png "Circuit Wiring")
+![Circuit Wiring](doc/images/circuit.png "Circuit Wiring")
 
 ## License
 
